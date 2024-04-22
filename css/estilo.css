@@ -439,9 +439,18 @@ h1,h2,h3,h4,h5{
 	
 }
 
+.cajaderecha{
+	width: 50%;
+	background-color: #727272;
+}
 
+.cajaizquierda{
+	width: 50%;
+}
 
-
+.container_contc{
+	display: flex;
+}
 
 
 
